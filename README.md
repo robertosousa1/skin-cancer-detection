@@ -14,10 +14,10 @@ NAC 10 - Trabalho sobre Redes Convolutivas
 
 ## [](#license):memo: Grupo
 - Gustavo Pinilha - RM 78298
-- João Fogaça -
+- João Fogaça - RM 78444
 - Leonardo Kodama - RM 78034
 - Roberto Alves - RM 77831
-- Rodrigo Lebrão - 
+- Rodrigo Lebrão - RM 77910
 
 ## [](#how-to-contribute):pencil2: Questões
 
